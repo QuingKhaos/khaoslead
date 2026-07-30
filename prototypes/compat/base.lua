@@ -1,7 +1,5 @@
 local khaoslib_recipe = require("__khaoslib__.prototypes.recipe")
 
-local lead_expansion_bolt_or_lead_plate = settings.startup["khaoslead-more"].value and "lead-expansion-bolt" or "lead-plate"
-
 khaoslib_recipe:load("storage-tank")
   :replace_ingredient("iron-plate", function(ingredient) ingredient.amount = math.max(1, ingredient.amount - 10) return ingredient end)
   :add_ingredient {type = "item", name = "lead-plate", amount = 10}

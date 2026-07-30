@@ -18,7 +18,7 @@ If you want to see your favorite mod supported, please open a discussion thread 
 
 The following mods have their recipes changed to include lead:
 
-- t.d.b.
+- [Large Electric Pole](https://mods.factorio.com/mod/fixLargeElectricPole)ᵃ
 
 ᵃ: As of 2026-07-30 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 

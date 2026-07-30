@@ -16,5 +16,10 @@
                 "replace": "__khaoslead__.$1"
             }
         ]
+    },
+    "diagnostics": {
+        "globals": [
+          "lead_expansion_bolt_or_lead_plate"
+        ]
     }
 }

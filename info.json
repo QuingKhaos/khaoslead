@@ -10,7 +10,9 @@
     "base >= 2.1.11",
     "! space-age",
 
-    "khaoslib >= 2.1.0"
+    "khaoslib >= 2.1.0",
+
+    "? fixLargeElectricPole >= 1.4.0"
   ],
   "package": {
     "ignore": [

@@ -22,6 +22,8 @@
     "khaoscircuitrygroup",
     "khaosmodulesgroup",
     "khaostransportgroup",
-    "science-tab"
+    "science-tab",
+
+    "fixLargeElectricPole"
   ]
 }
