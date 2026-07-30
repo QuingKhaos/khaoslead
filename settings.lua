@@ -6,3 +6,10 @@ khaoslib_setting:load {
   setting_type = "startup",
   default_value = true,
 } :commit()
+
+khaoslib_setting:load {
+  type = "bool-setting",
+  name = "khaoslead-more",
+  setting_type = "startup",
+  default_value = true,
+} :commit()
