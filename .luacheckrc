@@ -49,6 +49,9 @@ files["prototypes/**/*.lua"] = {
     "hour",
     "meter",
     "kilometer",
+    -- __core__.lualib.circuit-connector-sprites
+    "circuit_connector_definitions",
+    "default_circuit_wire_max_distance",
     -- __base__.prototypes.factoriopedia-util
     "make_resource",
   },
