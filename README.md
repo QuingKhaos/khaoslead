@@ -19,6 +19,7 @@ If you want to see your favorite mod supported, please open a discussion thread 
 The following mods have their recipes changed to include lead:
 
 - [Large Electric Pole](https://mods.factorio.com/mod/fixLargeElectricPole)ᵃ
+- [More Ammo Redux](https://mods.factorio.com/mod/more-ammo-redux)
 
 ᵃ: As of 2026-07-30 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 

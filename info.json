@@ -12,7 +12,9 @@
 
     "khaoslib >= 2.1.0",
 
-    "? fixLargeElectricPole >= 1.4.0"
+    "? fixLargeElectricPole >= 1.4.0",
+    "(?) More_Ammo >= 1.5.22",
+    "? more-ammo-redux >= 2.0.1"
   ],
   "package": {
     "ignore": [

@@ -18,3 +18,4 @@ lead_expansion_bolt_or_lead_plate = settings.startup["khaoslead-more"].value and
 
 require("__khaoslead__.prototypes.compat.base")
 require("__khaoslead__.prototypes.compat.large-electric-pole")
+require("__khaoslead__.prototypes.compat.more-ammo")

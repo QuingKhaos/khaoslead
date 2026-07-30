@@ -5,3 +5,4 @@ Date: ????
     - Re-implement Lead from scratch.
   Compatibility:
     - Add support for Large Electric Pole.
+    - Add support for More Ammo Redux.

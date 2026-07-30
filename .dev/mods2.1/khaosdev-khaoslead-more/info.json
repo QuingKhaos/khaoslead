@@ -25,7 +25,9 @@
     "khaostransportgroup",
     "science-tab",
 
-    "khaoslead"
+    "khaoslead",
+    
+    "more-ammo-redux"
   ],
   "expansion_required": true
 }
