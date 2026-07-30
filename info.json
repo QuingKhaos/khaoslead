@@ -15,6 +15,7 @@
   "package": {
     "ignore": [
       "mod_info.yml",
+      "**/*.blend",
       "**/*.md",
       "**/*.svg",
       "**/*.xcf"

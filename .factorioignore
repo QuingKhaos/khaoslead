@@ -10,6 +10,7 @@
 .luarc.json
 .markdownlint.json
 mod_info.yml
+*.blend
 *.md
 *.svg
 *.xcf
