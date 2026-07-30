@@ -38,8 +38,8 @@ files["prototypes/**/*.lua"] = {
     "mods",
     "serpent",
     "settings",
+    -- __core__.lualib.util
     "util",
-    -- util.lua
     "gram",
     "grams",
     "kg",
@@ -49,6 +49,8 @@ files["prototypes/**/*.lua"] = {
     "hour",
     "meter",
     "kilometer",
+    -- __base__.prototypes.factoriopedia-util
+    "make_resource",
   },
 }
 
