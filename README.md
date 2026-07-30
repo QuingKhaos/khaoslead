@@ -18,6 +18,7 @@ If you want to see your favorite mod supported, please open a discussion thread 
 
 The following mods have their recipes changed to include lead:
 
+- [EVE Weaponry](https://mods.factorio.com/mod/eve-weaponry)ᵃ
 - [Large Electric Pole](https://mods.factorio.com/mod/fixLargeElectricPole)ᵃ
 - [More Ammo Redux](https://mods.factorio.com/mod/more-ammo-redux)
 

@@ -4,5 +4,6 @@ Date: ????
   Features:
     - Re-implement Lead from scratch.
   Compatibility:
+    - Add support for EVE Weaponry.
     - Add support for Large Electric Pole.
     - Add support for More Ammo Redux.

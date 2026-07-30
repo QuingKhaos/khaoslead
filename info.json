@@ -12,6 +12,7 @@
 
     "khaoslib >= 2.1.0",
 
+    "? eve-weaponry >= 0.9.0",
     "? fixLargeElectricPole >= 1.4.0",
     "(?) More_Ammo >= 1.5.22",
     "? more-ammo-redux >= 2.0.1"
