@@ -4,13 +4,14 @@
   "description": "Adds lead ore and plates to the base game as an early game resource. Lead is used in ammunition, pipes, batteries and a few other places.",
   "author": "QuingKhaos",
   "homepage": "https://discord.gg/SYmkaDjFCt",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1.11",
     "! space-age",
 
     "khaoslib >= 2.1.0",
+    "? khaossilicon >= 0.1.0",
 
     "? eve-weaponry >= 0.9.0",
     "? fixLargeElectricPole >= 1.4.0",

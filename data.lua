@@ -17,6 +17,7 @@ require("__khaoslead__.prototypes.recipe.lead-chest")
 lead_expansion_bolt_or_lead_plate = settings.startup["khaoslead-more"].value and "lead-expansion-bolt" or "lead-plate"
 
 require("__khaoslead__.prototypes.compat.base")
+require("__khaoslead__.prototypes.compat.khaossilicon")
 require("__khaoslead__.prototypes.compat.eve-weaponry")
 require("__khaoslead__.prototypes.compat.large-electric-pole")
 require("__khaoslead__.prototypes.compat.more-ammo")
