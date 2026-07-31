@@ -4,6 +4,7 @@ Date: ????
   Compatibility:
     - Add support for Additional Turrets.
     - Add support for Howitzer Cannon.
+    - Add support for Storage Tank Mk2.
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0
 Date: 2026-07-31

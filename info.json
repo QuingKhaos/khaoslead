@@ -19,6 +19,7 @@
     "? Howitzer >= 0.5.2",
     "(?) More_Ammo >= 1.5.22",
     "? more-ammo-redux >= 2.0.1",
+    "? StorageTank2_2_0 >= 1.3.0",
 
     "! bzlead",
     "! bzlead2",

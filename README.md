@@ -23,6 +23,7 @@ The following mods have their recipes changed to include lead:
 - [Howitzer Cannon](https://mods.factorio.com/mod/Howitzer)ᵃ
 - [Large Electric Pole](https://mods.factorio.com/mod/fixLargeElectricPole)ᵃ
 - [More Ammo Redux](https://mods.factorio.com/mod/more-ammo-redux)
+- [Storage Tank Mk2](https://mods.factorio.com/mod/StorageTank2_2_0)
 
 ᵃ: As of 2026-07-31 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 
