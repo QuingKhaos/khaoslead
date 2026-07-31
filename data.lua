@@ -18,6 +18,8 @@ lead_expansion_bolt_or_lead_plate = settings.startup["khaoslead-more"].value and
 
 require("__khaoslead__.prototypes.compat.base")
 require("__khaoslead__.prototypes.compat.khaossilicon")
+
+require("__khaoslead__.prototypes.compat.additional-turret")
 require("__khaoslead__.prototypes.compat.eve-weaponry")
 require("__khaoslead__.prototypes.compat.howitzer")
 require("__khaoslead__.prototypes.compat.large-electric-pole")

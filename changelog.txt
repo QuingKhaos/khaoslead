@@ -2,6 +2,7 @@
 Version: 0.2.1
 Date: ????
   Compatibility:
+    - Add support for Additional Turrets.
     - Add support for Howitzer Cannon.
 ---------------------------------------------------------------------------------------------------
 Version: 0.2.0

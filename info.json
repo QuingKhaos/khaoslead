@@ -13,6 +13,7 @@
     "khaoslib >= 2.1.0",
     "? khaossilicon >= 0.1.0",
 
+    "? Additional-Turret-revived >= 0.1.61",
     "? eve-weaponry >= 0.9.0",
     "? fixLargeElectricPole >= 1.4.0",
     "? Howitzer >= 0.5.2",

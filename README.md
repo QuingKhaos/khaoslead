@@ -18,12 +18,13 @@ If you want to see your favorite mod supported, please open a discussion thread 
 
 The following mods have their recipes changed to include lead:
 
+- [Additional Turrets](https://mods.factorio.com/mod/Additional-Turret-revived)ᵃ
 - [EVE Weaponry](https://mods.factorio.com/mod/eve-weaponry)ᵃ
 - [Howitzer Cannon](https://mods.factorio.com/mod/Howitzer)ᵃ
 - [Large Electric Pole](https://mods.factorio.com/mod/fixLargeElectricPole)ᵃ
 - [More Ammo Redux](https://mods.factorio.com/mod/more-ammo-redux)
 
-ᵃ: As of 2026-07-30 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
+ᵃ: As of 2026-07-31 this mod is not yet available for Factorio 2.1. The compatibility layer for this mod is still included, so if the mod is updated for Factorio 2.1, the compatibility will be applied automatically.
 
 ## Credits
 
