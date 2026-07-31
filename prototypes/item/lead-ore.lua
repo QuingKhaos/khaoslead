@@ -6,7 +6,7 @@ khaoslib_item:load {
   name = "lead-ore",
   localised_name = {"entity-name.lead-ore"},
   subgroup = "raw-resource",
-  order = "da[lead-ore]",
+  order = "db[lead-ore]",
   stack_size = 50,
   weight = 4.5 * kg,
 
