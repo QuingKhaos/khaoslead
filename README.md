@@ -10,7 +10,7 @@ Lead is common near the starting area, but does not scale as much with distance 
 
 This revamp drops support for overhaul mods completely and currently Space Age too. Adding recycler and/or quality mod should still be possible. The focus lies at the moment to provide a consistent experience for the base game. Space Age support will be re-added in the future, as well as support for more modded planets.
 
-I tried to keep the mod as compatible as possible with other small content mods it already supported. But I could not identify every mod that the original supports, as the original code doesn't provide a consistent way to check for them.
+I try to keep the mod as compatible as possible with other small content mods it already supported. But I could not identify every mod that the original supports, as the original code doesn't provide a consistent way to check for them.
 
 If you want to see your favorite mod supported, please open a discussion thread on the mod portal, or an issue on GitHub, or join the Discord server and let me know.
 
