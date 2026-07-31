@@ -32,7 +32,7 @@ local resource = khaoslib_entity:load {
     type = "resource",
     name = "lead-ore",
     flags = {"placeable-neutral"},
-    order = "a-b-a",
+    order = "a-b-b",
 
     map_color = {r = 0.35, g = 0.10, b = 0.10},
     collision_box = {{ -0.1, -0.1}, {0.1, 0.1}},
@@ -44,7 +44,7 @@ local resource = khaoslib_entity:load {
 
     autoplace = resource_autoplace.resource_autoplace_settings{
       name = "lead-ore",
-      order = "a-t",
+      order = "b",
       base_density = 6,
       base_spots_per_km2 = 1,
       has_starting_area_placement = true,

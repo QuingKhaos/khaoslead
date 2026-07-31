@@ -10,9 +10,9 @@ khaoslib_item:load {
   stack_size = 50,
   weight = 4.5 * kg,
 
-  inventory_move_sound = item_sounds.wire_inventory_move,
-  pick_sound = item_sounds.wire_inventory_pickup,
-  drop_sound = item_sounds.wire_inventory_move,
+  inventory_move_sound = item_sounds.resource_inventory_move,
+  pick_sound = item_sounds.resource_inventory_pickup,
+  drop_sound = item_sounds.resource_inventory_move,
 
   pictures = {
     {filename = "__khaoslead__/graphics/icons/lead-ore.png", size = 64, scale = 0.5},
