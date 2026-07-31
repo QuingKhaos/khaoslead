@@ -17,7 +17,12 @@
     "? fixLargeElectricPole >= 1.4.0",
     "? Howitzer >= 0.5.2",
     "(?) More_Ammo >= 1.5.22",
-    "? more-ammo-redux >= 2.0.1"
+    "? more-ammo-redux >= 2.0.1",
+
+    "! bzlead",
+    "! bzlead2",
+    "! bzsilicon",
+    "! bzsilicon2"
   ],
   "package": {
     "ignore": [
