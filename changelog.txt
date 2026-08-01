@@ -1,4 +1,9 @@
 ---------------------------------------------------------------------------------------------------
+Version: 0.2.2
+Date: ????
+  Bugfixes:
+    - Update map generation presets, so lead ore sliders are moved too, when changing map presets.
+---------------------------------------------------------------------------------------------------
 Version: 0.2.1
 Date: 2026-07-31
   Compatibility:
